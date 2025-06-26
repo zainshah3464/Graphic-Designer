@@ -1,5 +1,3 @@
-'use client'
-
 import Script from 'next/script'
 import type { Metadata } from "next"
 import { Geist, Geist_Mono } from "next/font/google"
@@ -15,7 +13,7 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 })
 
-// ✅ Metadata config
+// ✅ Metadata export (allowed only on server side)
 export const metadata: Metadata = {
   title: "Zain Shah",
   description: "Creative Developer & Designer from Karachi 🚀",
@@ -53,7 +51,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      {/* ✅ Google Tag script injected safely */}
+      {/* ✅ Google Analytics */}
       <Script
         async
         src="https://www.googletagmanager.com/gtag/js?id=G-MQEHNHFSQX"
