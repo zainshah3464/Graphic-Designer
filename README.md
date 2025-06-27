@@ -1,3 +1,42 @@
+# 🎨 Zain Shah - Graphic Designer & Video Editor Portfolio
+
+Welcome to my professional portfolio! This is a fully responsive dark-themed website built with Next.js 15 and Tailwind CSS. Designed to showcase my creative work in motion design, editing, and graphic art.
+
+## 🚀 Features
+- 🖼️ Portfolio Gallery & Demo Section
+- 🎥 Video Editing Showreels
+- 🎨 Modern Dark UI with smooth transitions
+- 📱 Mobile Responsive Design
+- ⏳ Custom `loading.js` screen for slow networks
+- ❌ Custom `error.js` page for unmatched routes
+- 📬 Get in Touch form (with future plans for Email or Instagram)
+- 📝 Resume Download section (Coming soon)
+- 👤 About Section
+
+## 🛠 Built With
+- Next.js 15 (App Router)
+- Tailwind CSS
+- TypeScript
+- Vercel Deployment
+
+📸 Screenshot
+![Screenshot](Screenshot.jpg)
+
+
+📌 Live Preview: [graphic-designer-omega.vercel.app](https://graphic-designer-omega.vercel.app)
+
+---
+
+## 🙌 Author
+**Syed Zain Ali Shah**  
+📍 Karachi, Pakistan  
+🎓 Graphic Designer & Video Editor  
+GitHub: [@zainshah3464](https://github.com/zainshah3464)
+
+---
+
+Licensed under MIT
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
