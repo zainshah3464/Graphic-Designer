@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Zain Shah",
     description: "Creative Developer & Designer",
-    images: ["/zain-og.jpg"],
+    images: ["/zain-org.jpg"],
   },
 }
 
