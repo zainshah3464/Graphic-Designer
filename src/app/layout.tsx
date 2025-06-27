@@ -21,13 +21,13 @@ export const metadata: Metadata = {
     icon: "/favicon-32x32.png",
   },
   openGraph: {
-    title: "Zain Shah — Creative Developer",
+    title: "Zain Shah — Developer",
     description: "Explore my design + dev projects, all in one place.",
     url: "https://zain-gaming-hub.vercel.app/",
     siteName: "Zain Shah",
     images: [
       {
-        url: "/zain-org.jpg",
+        url: "/photoshared.jpg",
         width: 1200,
         height: 630,
         alt: "Zain Shah",
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Zain Shah",
     description: "Creative Developer & Designer",
-    images: ["/zain-org.jpg"],
+    images: ["/photoshared.jpg"],
   },
 }
 
