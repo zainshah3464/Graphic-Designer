@@ -10,7 +10,7 @@ const About = () => (
       {/* Profile Image */}
       <div className="w-40 h-40 md:w-60 md:h-60 relative rounded-full overflow-hidden border-4 border-blue-500 shadow-lg">
         <Image
-          src="/zain1.png"
+          src="/zain-blur.png"
           alt="Zain Ali Shah"
           fill
           style={{ objectFit: 'cover' }}
