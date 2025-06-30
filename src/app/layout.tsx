@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Zain Shah — Developer",
     description: "Explore my design + dev projects, all in one place.",
-    url: "https://zain-gaming-hub.vercel.app/",
+    url: "https://zain-main-web.vercel.app/",
     siteName: "Zain Shah",
     images: [
       {
