@@ -25,7 +25,7 @@ const Contact = () => {
 
       <div className="flex flex-col sm:flex-row gap-4 items-center">
         <a
-          href="mailto:zainshahzs110@gmail.com"
+          href="mailto:zainshahz110s@gmail.com"
           className="bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-full transition-all duration-300 transform hover:scale-105"
         >
           Email Me
@@ -42,8 +42,8 @@ const Contact = () => {
 
       <p className="text-sm text-gray-500 mt-6">
         Prefer email? You can reach me anytime at{' '}
-        <a className="underline text-blue-400" href="mailto:zainshahzs110@gmail.com">
-          zainshahzs110@gmail.com
+        <a className="underline text-blue-400" href="mailto:zainshahz110s@gmail.com">
+          zainshahz110s@gmail.com
         </a>
       </p>
     </section>
